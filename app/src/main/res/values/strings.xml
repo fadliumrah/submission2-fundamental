@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="looking_for">Looking for...</string>
+    <string name="UserNotFound">User Tidak Ditemukan</string>
+    <string name="location_asset">location_asset</string>
+    <string name="name_asset">name_asset</string>
+    <string name="company_asset">company_asset</string>
+    <string name="repository_asset">repository_asset</string>
+    <string name="follower">follower</string>
+    <string name="search_message">search_message</string>
+    <string name="followers_not_found">%s Has No Followers</string>
+    <string name="avatar_detail">avatar detail</string>
+    <string name="person_logo">person logo</string>
+    <string name="company_logo">company logo</string>
+    <string name="location_logo">location logo</string>
+    <string name="folder_logo">folder logo</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Temukan yang Anda cari</string>
+    <string name="avatar_container">avatar_container</string>
+    <string name="username_container">username container</string>
+    <string name="navigate_next_asset">navigate next asset</string>
+    <string name="search_icon">search icon</string>
+    <string name="find_user">Find User</string>
+    <string name="sib3xdicoding_image">sib3Xdicoding image</string>
+
+</resources>
